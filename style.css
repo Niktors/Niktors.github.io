@@ -579,7 +579,7 @@ p.l:hover:after {
     padding: 1em
 }
 
-.menu {
+.menu_header {
     display: flex;
     flex-direction: row;
     list-style-type: none;
@@ -587,7 +587,7 @@ p.l:hover:after {
     padding: 0
 }
 
-.menu>li {
+.menu_header>li {
     margin: 0 1rem;
     overflow: hidden
 }

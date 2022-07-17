@@ -44,11 +44,11 @@ a.appps {
     margin-top: 6px
     overflow: hidden;
 }
-.img {
+.imh {
   transition: 1s; 
 }
-.imh:hover {
-  transform: scale(1.2); 
+.imh:active {
+  transform: scale(1.5); 
 }
 
 p.Text1 {

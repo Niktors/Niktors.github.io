@@ -679,7 +679,11 @@ footer div {
         width:98%
     }
 }
-
+@media (min-width: 735px) {
+ .menu {
+        display: none;
+ }
+}
 @media (max-width: 735px) {
     header nav {
         display:none

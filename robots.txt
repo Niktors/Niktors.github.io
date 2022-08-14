@@ -1,0 +1,19 @@
+User-agent: Yandex
+Allow: /indez.html 
+Allow: /indec.html
+Allow: /dark.html
+Allow: /monster.html
+Allow: /world.html
+Allow: /rofl404.html
+
+User-agent: Google
+Allow: /indez.html 
+Allow: /indec.html
+Allow: /dark.html
+Allow: /monster.html
+Allow: /world.html
+Allow: /rofl404.html
+
+Sitemap: /sitemap.xml
+
+Host: niktors.github.io
